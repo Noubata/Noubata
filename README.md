@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Beny
 
-<!--
-**Noubata/Noubata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 Currently working on my own project. Building a Startup that can help send money safely, back in my country;
+- 🌱 Learning python | Django | RestAPI
+- 💡 Interested in AI 
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Java
+- Spring Boot
+- React
+- PostgreSQL
+- JUnit Testing
+- UML
+- Design Pattern
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+(put stats images here)
+
+## 📫 Contact Me
+- LinkedIn: www/linkedin/in/benoit-noubata-18874b386
+- Email: benynouba@gmail.com
