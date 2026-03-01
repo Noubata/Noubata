@@ -10,6 +10,7 @@
 - Spring Boot
 - React
 - PostgreSQL
+  JPA 
 - JUnit Testing
 - UML
 - Design Pattern
@@ -18,5 +19,5 @@
 (put stats images here)
 
 ## 📫 Contact Me
-- LinkedIn: www/linkedin/in/benoit-noubata-18874b386
+- LinkedIn: www.linkedin.com/in/benoit-noubata-18874b386
 - Email: benynouba@gmail.com
